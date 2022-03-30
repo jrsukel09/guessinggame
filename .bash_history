@@ -221,3 +221,226 @@ nano readme.md
 
 
 fes
+git
+cd my-first-repo
+git branch
+ls
+cat readme.md
+git status
+git commit -m "made read me more personal"
+git push origin update-readme
+git branch
+git checkout master
+git status
+ls
+git pull
+cd
+pwd
+git@github.com:jrsukel09/the-unix-workbench.git
+git clone git@github.com:jrsukel09/the-unix-workbench.git
+git clone https://github.com/jrsukel09/the-unix-workbench.git
+ls
+cd the-unix-workbench
+git remote -v
+echo "David Sukel"  >> guestbook.md 
+cat guestbook.md
+nano guestbook.md
+git add guestbook.md
+git commit -m "added my name to guestbook.md"
+git push
+pwd
+cleart
+clear
+up
+back
+cd
+mkdir guessinggame
+ls
+cd guessinggame
+#!/usr/bin/env bash
+file: guessinggame.sh
+#file: guessinggame.sh
+ls
+bash
+mv guessinggame.sh
+touch guessinggame.sh
+ls
+nano guessinggame.sh
+cat guessinggame.sh
+bash guessinggame.sh
+touch makefile
+ls
+nano makefile
+ls
+makefile
+run
+ls
+cat guessinggame.sh
+cat makefile
+nano makefile
+git -A
+git add -A
+git status
+nano guessinggame.sh
+nano makefile
+cd
+pwd
+git branch
+la
+cd guessinggame
+ls
+git -A
+git add -A
+git status
+git commit -m "added game and makefile"
+git push
+git remote origin push
+git branch
+git push -u origin master
+git remote add origin https://github.com/jrsukel09/guessinggame.git
+git push -u origin master
+nano makefile
+echo "*.log' > .gitignore
+git status
+'
+"git status
+git status
+ls
+git oush
+git push
+ls
+git oush
+git push
+ls
+pwd
+git push
+git remote
+git push 
+git remote add origin https://github.com/jrsukel09/guessinggame.git
+git remote rm origin
+git remote
+git remote add origin https://github.com/jrsukel09/guessinggame.git
+git branch -m main
+git push -u origin main
+ls
+makefile
+make makefile
+nano makefile
+ls
+makefile
+make makefile
+make readme.md
+fls
+ls
+cd
+owd
+pwd
+cs guessinggame
+cd guessinggame
+ls
+nano makefile
+make readme.md
+nano makefile
+make readme.md
+ls
+nano makefile
+ls
+make readme.md
+install make
+sudo apt install make
+make readme.md
+ls
+cat readme.md
+nano readme.md
+git status
+git add -A
+git commit -m "fixed readme?"
+git push
+nano makefile
+make readme.md
+cat readme.md
+nano readme.md
+nano makefile
+make readme.md
+cat readme.md
+rm readme.md
+make readme.md
+cat readme.md
+ls
+nano makefile
+make readme.md
+nano makefile
+make readme.md
+cat readme.md
+git add -A
+git commit -m "getting annoyed"
+git push
+git setting
+git config
+git settingpwd
+git config --global credential.helper store
+git push
+git status
+git add -A
+git commit 
+git status
+git push
+nano makefile
+make readme.md
+cat readme.md
+rm readme.md
+make readme.md
+ls
+cat readme.md
+nano readme.md
+nano makefile
+make readme.md
+cat readme.md
+git status
+git add -a
+git add -A
+git commit -m "kinda"
+git push
+git psuh
+git push
+nano makefile
+make readme.md
+cat readme.md
+rm readme.md
+make readme.md
+cat readme.md
+git add -A
+git commit -m " makefile done
+"
+git push
+nano makefile
+pwnd
+pwd
+git
+git branch
+git reset
+git inti
+git init
+ls
+git rm
+git rm my-first-repo
+git rm the-unix-workbench
+rm .git
+ls
+pwd
+cd /home
+ls
+cd dsukel
+ls
+cd new
+cs my-first-repo
+cd my-first-repo
+ls
+cat readme.md
+rm my-first-repo
+cd
+cs
+cd
+ls
+rm my-first-repo
+rm -r my-first-repo
